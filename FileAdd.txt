@@ -1,0 +1,5 @@
+This file is added in branch 1.x 
+
+this should not be added to tag in branch 1.x
+
+and other branches too 
