@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+Hello World . . . . . . Changed in branch 2.x 
+
+=======
 Hello World . . . . . . 
 A new line added.
+>>>>>>> master
